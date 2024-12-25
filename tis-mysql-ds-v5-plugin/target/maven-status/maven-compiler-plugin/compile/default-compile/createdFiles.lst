@@ -1,0 +1,5 @@
+META-INF/annotations/extendpoints.txt
+META-INF/annotations/com.qlangtech.tis.extension.TISExtension
+META-INF/annotations/com.qlangtech.tis.extension.TISExtension.txt
+com/qlangtech/tis/plugin/ds/mysql/extend/MySQLVXXXXDataSourceFactory$DefaultDescriptor.class
+com/qlangtech/tis/plugin/ds/mysql/extend/MySQLVXXXXDataSourceFactory.class
